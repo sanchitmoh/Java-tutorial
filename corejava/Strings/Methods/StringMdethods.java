@@ -45,6 +45,11 @@ public class StringMdethods {
         String Upper = str5.toUpperCase();
         System.out.println("Uppercase String: " + Upper);
 
+        // str.trim() - removes leading and trailing whitespace from the string
+        String str6 = "   Hello World   ";
+        String trimmedString = str6.trim();
+        System.out.println("Trimmed String: '" + trimmedString + "'");
+
 
 
 

@@ -25,6 +25,7 @@ public class StudMain {
         int marks[] = new int[3];
         marks[0] = 85;
         marks[1] = 90;
+
         marks[2] = 78;
 
          Arrays.sort(marks); // Sorting the marks array
