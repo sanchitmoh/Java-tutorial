@@ -41,6 +41,7 @@ public class ConditionalOperators {
         System.out.println("Remainder: " + remainder);
 
 
+
     }
     // Relational Operators :- relational operators are used to compare two values and return a boolean result (true or false).
 }

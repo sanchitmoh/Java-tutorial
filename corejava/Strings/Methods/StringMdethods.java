@@ -50,6 +50,15 @@ public class StringMdethods {
         String trimmedString = str6.trim();
         System.out.println("Trimmed String: '" + trimmedString + "'");
 
+        // str.replace(oldChar, newChar) - replace all old charchater occurences with new character
+        String str7="hello world";
+        String replacedString = str7.replace('o', 'a');
+        System.out.println("Replaced String: " + replacedString);
+
+        String str8="hello world";
+        System.out.println(str8);
+
+
 
 
 
